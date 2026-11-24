@@ -1,0 +1,53 @@
+[
+  {
+    "id": 88,
+    "date": "2026-02-10T10:00:00",
+    "slug": "workstand-blue-commuter",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://tidewater-cycles.example/workstand-blue-commuter/",
+    "title": {
+      "rendered": "workstand-blue-commuter"
+    },
+    "author": 2,
+    "alt_text": "Blue commuter bike clamped in a workstand with the rear wheel removed",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "post": 42,
+    "source_url": "https://tidewater-cycles.example/wp-content/uploads/2026/02/workstand-blue-commuter.jpg"
+  },
+  {
+    "id": 91,
+    "date": "2026-02-10T10:00:00",
+    "slug": "IMG_4410",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://tidewater-cycles.example/IMG_4410/",
+    "title": {
+      "rendered": "IMG_4410"
+    },
+    "author": 2,
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "post": 42,
+    "source_url": "https://tidewater-cycles.example/wp-content/uploads/2026/02/IMG_4410.jpg"
+  },
+  {
+    "id": 93,
+    "date": "2026-02-10T10:00:00",
+    "slug": "chain-wear-gauge",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://tidewater-cycles.example/chain-wear-gauge/",
+    "title": {
+      "rendered": "Chain wear gauge"
+    },
+    "author": 2,
+    "alt_text": "   ",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "post": null,
+    "source_url": "https://tidewater-cycles.example/wp-content/uploads/2026/02/chain-wear-gauge.jpg"
+  }
+]

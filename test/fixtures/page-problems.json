@@ -1,0 +1,45 @@
+{
+  "id": 57,
+  "date": "2025-11-20T11:00:00",
+  "date_gmt": "2025-11-20T11:00:00",
+  "guid": {
+    "rendered": "https://tidewater-cycles.example/?page_id=57"
+  },
+  "modified": "2025-11-21T08:30:45",
+  "modified_gmt": "2025-11-21T08:30:45",
+  "slug": "hours",
+  "status": "publish",
+  "type": "page",
+  "link": "https://tidewater-cycles.example/hours/",
+  "title": {
+    "rendered": "Hours &amp; Location"
+  },
+  "content": {
+    "rendered": "<h1>Opening Hours</h1>\n<p>We are open Tuesday to Saturday, 9 to 5. Closed on public holidays.</p>\n<h2>Find us</h2>\n<h4>Parking</h4>\n<p>There are two spaces behind the shop. See the <a href=\"https://maps.example.org/tidewater\">map</a> or <a href=\"mailto:hello@tidewater-cycles.example\">email us</a>. <a href=\"#top\">Back to top</a></p>\n<img src=\"https://tidewater-cycles.example/wp-content/uploads/2025/11/shopfront.jpg\">\n<img src=\"https://tidewater-cycles.example/wp-content/uploads/2025/11/divider.png\" alt=\"\">",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>We are open Tuesday to Saturday, 9 to 5. Closed on public holidays. Find us Parking There are two spaces behind the shop.</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {},
+  "_links": {
+    "self": [
+      {
+        "href": "https://tidewater-cycles.example/wp-json/wp/v2/pages/57"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tidewater-cycles.example/wp-json/wp/v2/pages"
+      }
+    ]
+  }
+}

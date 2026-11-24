@@ -1,0 +1,40 @@
+{
+  "name": "wordpress-content-mcp",
+  "version": "0.1.0",
+  "description": "MCP server that lets an AI assistant read and audit a WordPress site over the REST API and propose changes as drafts only.",
+  "license": "MIT",
+  "author": "Mert Atalay",
+  "type": "module",
+  "bin": {
+    "wordpress-content-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "wordpress",
+    "seo",
+    "content-audit"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "node-html-parser": "^9.0.7",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "typescript": "^7.0.2",
+    "vitest": "^3.2.7"
+  }
+}

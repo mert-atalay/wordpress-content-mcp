@@ -1,0 +1,49 @@
+{
+  "post": {
+    "description": "",
+    "hierarchical": false,
+    "has_archive": false,
+    "name": "Posts",
+    "slug": "post",
+    "icon": null,
+    "taxonomies": [
+      "category",
+      "post_tag"
+    ],
+    "rest_base": "posts",
+    "rest_namespace": "wp/v2"
+  },
+  "page": {
+    "description": "",
+    "hierarchical": true,
+    "has_archive": false,
+    "name": "Pages",
+    "slug": "page",
+    "icon": null,
+    "taxonomies": [],
+    "rest_base": "pages",
+    "rest_namespace": "wp/v2"
+  },
+  "attachment": {
+    "description": "",
+    "hierarchical": false,
+    "has_archive": false,
+    "name": "Media",
+    "slug": "attachment",
+    "icon": null,
+    "taxonomies": [],
+    "rest_base": "media",
+    "rest_namespace": "wp/v2"
+  },
+  "workshop": {
+    "description": "",
+    "hierarchical": false,
+    "has_archive": true,
+    "name": "Workshops",
+    "slug": "workshop",
+    "icon": null,
+    "taxonomies": [],
+    "rest_base": "workshops",
+    "rest_namespace": "wp/v2"
+  }
+}

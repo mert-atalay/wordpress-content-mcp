@@ -1,0 +1,26 @@
+[
+  {
+    "id": 120,
+    "date": "2026-04-01T08:00:00",
+    "modified": "2026-04-03T16:20:00",
+    "slug": "how-to-fix-a-puncture",
+    "status": "publish",
+    "type": "post",
+    "link": "https://tidewater-cycles.example/how-to-fix-a-puncture/",
+    "title": {
+      "rendered": "How to Fix a Puncture in Ten Minutes"
+    }
+  },
+  {
+    "id": 118,
+    "date": "2026-03-20T08:00:00",
+    "modified": "2026-03-22T10:05:00",
+    "slug": "why-your-gears-skip",
+    "status": "publish",
+    "type": "post",
+    "link": "https://tidewater-cycles.example/why-your-gears-skip/",
+    "title": {
+      "rendered": "Why Your Gears Skip &#8211; and What to Do"
+    }
+  }
+]

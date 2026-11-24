@@ -1,0 +1,36 @@
+[
+  {
+    "id": 97,
+    "date": "2026-02-10T10:00:00",
+    "slug": "shopfront",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://tidewater-cycles.example/shopfront/",
+    "title": {
+      "rendered": "Shopfront"
+    },
+    "author": 2,
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "post": 57,
+    "source_url": "https://tidewater-cycles.example/wp-content/uploads/2026/02/shopfront.jpg"
+  },
+  {
+    "id": 99,
+    "date": "2026-02-10T10:00:00",
+    "slug": "team-at-the-bench",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://tidewater-cycles.example/team-at-the-bench/",
+    "title": {
+      "rendered": "Team at the bench"
+    },
+    "author": 2,
+    "alt_text": "Two mechanics truing a wheel at the workshop bench",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "post": null,
+    "source_url": "https://tidewater-cycles.example/wp-content/uploads/2026/02/team-at-the-bench.jpg"
+  }
+]

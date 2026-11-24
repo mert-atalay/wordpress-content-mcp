@@ -1,0 +1,69 @@
+{
+  "id": 42,
+  "date": "2026-03-02T09:15:00",
+  "date_gmt": "2026-03-02T09:15:00",
+  "guid": {
+    "rendered": "https://tidewater-cycles.example/?page_id=42",
+    "raw": "https://tidewater-cycles.example/?page_id=42"
+  },
+  "modified": "2026-03-18T14:02:11",
+  "modified_gmt": "2026-03-18T14:02:11",
+  "slug": "spring-service-checklist",
+  "status": "publish",
+  "type": "page",
+  "link": "https://tidewater-cycles.example/guides/spring-service-checklist/",
+  "title": {
+    "raw": "Spring Bike Service Checklist for Commuters",
+    "rendered": "Spring Bike Service Checklist for Commuters"
+  },
+  "content": {
+    "raw": "<!-- wp:paragraph -->(block markup omitted in fixture)<!-- /wp:paragraph -->",
+    "rendered": "<p>A bike that sat in the shed all winter needs about an hour of care before its first long ride. This checklist is the one we use in the workshop at Tidewater Cycle Works. You can do most of it at home with a rag, a pump and a set of hex keys.</p>\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://tidewater-cycles.example/wp-content/uploads/2026/03/workstand-blue-commuter.jpg\" alt=\"Blue commuter bike clamped in a workstand with the rear wheel removed\" class=\"wp-image-88\"/></figure>\n<h2 class=\"wp-block-heading\">Start with the tyres</h2>\n<p>Rubber dries out when it sits. Look along both sidewalls for small cracks, and check the tread for glass or flint that worked its way in last autumn. Pump each tyre to the pressure printed on the sidewall and leave the bike for ten minutes. If a tyre feels soft again, the tube has a slow leak and should be replaced before you ride.</p>\n<h3 class=\"wp-block-heading\">How hard should they be?</h3>\n<p>Wider tyres run softer. A 40 mm commuter tyre is happy around 3.5 bar, while a 25 mm road tyre wants closer to 6. Our <a href=\"https://tidewater-cycles.example/guides/tyre-pressure/\">tyre pressure guide</a> has a table for common sizes and rider weights.</p>\n<h2 class=\"wp-block-heading\">Check the brakes</h2>\n<p>Squeeze each lever hard. It should stop well before it touches the handlebar. Then look at the pads. Rim brake pads have wear lines moulded into them, and disc pads need at least one millimetre of material. Pads are cheap. Rims and rotors are not.</p>\n<h3 class=\"wp-block-heading\">Cables and hoses</h3>\n<p>Follow each cable from lever to brake and look for rust or fraying near the clamp bolt. Hydraulic hoses should be dry along their whole length. A damp patch near a fitting means a leak, and that is a job for a workshop.</p>\n<h2 class=\"wp-block-heading\">Clean and oil the chain</h2>\n<p>Wipe the chain with a dry rag until the rag comes away mostly clean. Put one drop of oil on each roller, turn the cranks backwards a few times, then wipe off the extra. Oil on the outside of a chain only collects dirt. The Bike Repair Notes site has a clear <a href=\"https://bike-repair-notes.example.org/chain-wear/\" rel=\"noopener\">set of repair articles</a> if you want to go further and measure chain wear yourself.</p>\n<h2 class=\"wp-block-heading\">When to bring it in</h2>\n<p>If the gears skip under load, a wheel wobbles between the brake pads, or anything creaks when you stand on the pedals, <a href=\"/book-a-service/\">book a service</a> and we will take a look. A spring service takes us about two days in March and closer to a week in May, so earlier is better.</p>\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"Spring bike service checklist\"}</script>",
+    "protected": false,
+    "block_version": 1
+  },
+  "excerpt": {
+    "raw": "An hour of checks to do before the first long ride of the year: tyres, brakes, chain, and when to book a workshop visit.",
+    "rendered": "<p>An hour of checks to do before the first long ride of the year: tyres, brakes, chain, and when to book a workshop visit.</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 88,
+  "parent": 30,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {},
+  "yoast_head_json": {
+    "title": "Spring Bike Service Checklist | Tidewater Cycle Works",
+    "description": "A one hour checklist for getting a commuter bike ready for spring. Covers tyres, brakes, chain care and the signs that mean a workshop visit.",
+    "robots": {
+      "index": "index",
+      "follow": "follow"
+    },
+    "canonical": "https://tidewater-cycles.example/guides/spring-service-checklist/",
+    "og_type": "article",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://tidewater-cycles.example/guides/spring-service-checklist/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://tidewater-cycles.example/wp-json/wp/v2/pages/42"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://tidewater-cycles.example/wp-json/wp/v2/pages"
+      }
+    ]
+  }
+}

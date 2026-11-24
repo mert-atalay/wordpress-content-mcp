@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "count": 4,
+    "description": "",
+    "link": "https://tidewater-cycles.example/category/news/",
+    "name": "News",
+    "slug": "news",
+    "taxonomy": "category",
+    "parent": 0
+  },
+  {
+    "id": 5,
+    "count": 11,
+    "description": "",
+    "link": "https://tidewater-cycles.example/category/repair-guides/",
+    "name": "Repair guides",
+    "slug": "repair-guides",
+    "taxonomy": "category",
+    "parent": 0
+  },
+  {
+    "id": 6,
+    "count": 3,
+    "description": "",
+    "link": "https://tidewater-cycles.example/category/repair-guides/wheels/",
+    "name": "Wheels",
+    "slug": "wheels",
+    "taxonomy": "category",
+    "parent": 5
+  }
+]

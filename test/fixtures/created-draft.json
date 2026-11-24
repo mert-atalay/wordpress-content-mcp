@@ -1,0 +1,23 @@
+{
+  "id": 301,
+  "date": "2026-05-04T12:00:00",
+  "modified": "2026-05-04T12:00:00",
+  "slug": "",
+  "status": "draft",
+  "type": "post",
+  "link": "https://tidewater-cycles.example/?p=301",
+  "title": {
+    "raw": "Draft title",
+    "rendered": "Draft title"
+  },
+  "content": {
+    "raw": "<p>Draft body</p>",
+    "rendered": "<p>Draft body</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "",
+    "protected": false
+  }
+}
