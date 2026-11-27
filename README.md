@@ -6,6 +6,8 @@ I built it for marketing and SEO work: finding weak pages, checking headings and
 
 This is an example and reference implementation. It is small on purpose, so the whole thing can be read in one sitting.
 
+Related case study on [mertatalay.com](https://mertatalay.com): [AI agents that ask before they write](https://mertatalay.com/work/ai-agents-with-approval/).
+
 ## What it does
 
 - Lists and reads posts, pages and custom post types.
